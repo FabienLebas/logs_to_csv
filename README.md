@@ -5,4 +5,8 @@ This project was made for 1 logs file. You can easily adapt it to your need:
 - If your datas are separated by something else than ',' then change delimiter line 6
 - Change rows you need and their order in line 10
 
+```
+python3 logs_to_csv.py
+```
+
 And if you are brave enough, make it modular with a user interface ;-)
